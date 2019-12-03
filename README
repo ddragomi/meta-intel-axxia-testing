@@ -1,0 +1,15 @@
+meta-intel-axxia-testing
+========================
+
+This layer adds testing settings for the meta-intel-axxia layer.
+
+Dependencies
+============
+
+This layer depends on:
+
+Meta Intel Axxia Layer (and its dependencies)
+---------------------------------------------
+URI: https://github.com/axxia/meta-intel-axxia.git
+branch: thud
+tag: (tag specified in the release notes)
